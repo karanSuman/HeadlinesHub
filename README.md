@@ -1,7 +1,7 @@
 
 # Getting Started with Create React App
 
-In the project directory,First download the Source code,And for the Security reasons the API KEY is Hidden.Go to [(https://newsapi.org/)].Generate Your API KEY and Use it instead of api key.env. Then you can run the application..
+In the project directory,First download the Source code,And for the Security reasons the API KEY is Hidden.Go to [(https://newsapi.org/)].  Generate Your API KEY and Use it instead of api key.env. Then you can run the application..
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
