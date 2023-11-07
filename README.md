@@ -1,5 +1,7 @@
-In the project directory,First download the Source code,Then you can run:
+
 # Getting Started with Create React App
+
+In the project directory,First download the Source code,Then you can run:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
